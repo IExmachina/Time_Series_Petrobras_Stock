@@ -1,0 +1,2 @@
+# Time_Series_Petrobras_Stock
+The objective of this project is to forecast stock prices for the company Petrobras, a state-owned Brazilian multinational corporation in the petroleum industry.  We have the stock prices of 2013 to 2018. For this, we will use a Recurrent Neural Network (LSTM) and the Facebook Prophet algorithm. At the end we will compare the results between the models. Let's jump right in!
